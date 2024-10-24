@@ -1,0 +1,1 @@
+This is a simple tennis game where two players, represented by rectangles, move vertically to hit a ball. The ball moves in both horizontal and vertical directions, bouncing off the players and the edges of the screen. If the ball misses a player, it bounces off the walls, keeping the game in continuous motion. The goal is to have the players intercept the ball and send it back.
